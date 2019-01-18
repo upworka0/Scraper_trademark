@@ -1,0 +1,4 @@
+MYSQL_DBNAME = ""
+MYSQL_HOST = ""
+MYSQL_USER = ""
+MYSQL_PASS = ""
